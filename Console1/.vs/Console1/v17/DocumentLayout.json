@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\RabbitMQ-Example\\Console1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95A0DCDE-B470-40B4-B9DE-4B14881F106F}|Console1\\Console1.csproj|c:\\projetos\\rabbitmq-example\\console1\\console1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A0DCDE-B470-40B4-B9DE-4B14881F106F}|Console1\\Console1.csproj|solutionrelative:console1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A0DCDE-B470-40B4-B9DE-4B14881F106F}|Console1\\Console1.csproj|c:\\projetos\\rabbitmq-example\\console1\\console1\\console1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{95A0DCDE-B470-40B4-B9DE-4B14881F106F}|Console1\\Console1.csproj|solutionrelative:console1\\console1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Console1.csproj",
+              "DocumentMoniker": "C:\\Projetos\\RabbitMQ-Example\\Console1\\Console1\\Console1.csproj",
+              "RelativeDocumentMoniker": "Console1\\Console1.csproj",
+              "ToolTip": "C:\\Projetos\\RabbitMQ-Example\\Console1\\Console1\\Console1.csproj",
+              "RelativeToolTip": "Console1\\Console1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T18:47:28.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\RabbitMQ-Example\\Console1\\Console1\\Program.cs",
+              "RelativeDocumentMoniker": "Console1\\Program.cs",
+              "ToolTip": "C:\\Projetos\\RabbitMQ-Example\\Console1\\Console1\\Program.cs",
+              "RelativeToolTip": "Console1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:05:31.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
